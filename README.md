@@ -30,7 +30,7 @@ pip install ipykernel
 python -m ipykernel install --user --name SmartInvest --display-name "Python (SmartInvest)"
 
 # 安装依赖（假设你有 requirements.txt 文件）
-pip install -r ./aliyun_acp_learning/requirements.txt
+pip install -r ./requirements.txt
 
 # 退出虚拟环境
 conda deactivate
