@@ -40,4 +40,4 @@ conda deactivate
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 # 或者临时使用（安装时指定）
-pip install -r ./aliyun_acp_learning/requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install -r ./requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
